@@ -1,4 +1,4 @@
-# My-Website: a samll walk through to my project files
+# My-Website: a small walk through to my project files
 
 Here the main file of the entire repo is server.py which includes the Python code to run the website.
 This program makes use of FLASK Web Framework to build the Web App and other Python HTTP supoort imports to communicate with the application.
